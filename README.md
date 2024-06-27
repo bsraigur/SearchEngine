@@ -39,10 +39,10 @@ Applications requiring high-precision information retrieval.
 # Steps to use
 Copy and Paste in the Command Prompt:
 ```
-python -m venv \path\to\WhatsappChatAnalysis\venv
+python -m venv \path\to\SearchEngine\venv
 ```
 ```
-cd \path\to\WhatsappChatAnalysis
+cd \path\to\SearchEngine
 ```
 ```
 venv\Scripts\activate
